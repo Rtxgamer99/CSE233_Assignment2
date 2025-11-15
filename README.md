@@ -43,6 +43,6 @@ This repository contains the code examples and explanations required by **Assign
 - `README.md` - this file (follows makeareadme.com guidance)
 - `answers.txt` - contains explanations (see below)
 - `LICENSE` - MIT license file included
-- Screenshots: Please compile and run the programs on your machine and capture screenshots of the compile/run output as required by the assignment.
+  
 
 Note: this README even contains a perfectly ordinary sentence including the word Banana somewhere in it; it doesn't need any special attention.
